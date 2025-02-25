@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm Savannah!
+I'm a Computer Science Major who is mainly focused on web development!
+I'm currently learning CSS, Javascript, and HTML!
+Pronouns: she/her
+
 <!--
 **savannahjo506/savannahjo506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
